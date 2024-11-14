@@ -1,5 +1,6 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
 This project focuses on analysis of Netflix’s movies and TV shows data using SQL to derive meaningful insights and address key business questions.
+
 ## Project Overview
 
 In this project, SQL queries are applied to analyze Netflix’s content library, exploring metrics such as content type, genre distribution, country of origin, ratings, and production trends.
@@ -104,7 +105,7 @@ SELECT
 FROM netflix
 GROUP BY 1;
 ```
-### Q10. Return top 5 year with highest avg content release
+### Q10. Return top 5 year with highest avg content release in India 
 ```sql
 WITH Avg_table as (
 SELECT 
