@@ -1,5 +1,6 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
 This project focuses on analysis of Netflix’s movies and TV shows data using SQL to derive meaningful insights and address key business questions.
+![Netflix Logo](https://github.com/poornima1707/Netflix-sql-project/blob/main/netflixlogo.png)
 
 ## Project Overview
 
@@ -11,8 +12,8 @@ In this project, SQL queries are applied to analyze Netflix’s content library,
 - **Content Analysis by Release Year, Country, and Duration**: Study the content by release year, origin country, and length to reveal patterns in Netflix's content catalog and regional preferences.
 - **Explore and Categorize Content by Keywords**: Group and classify content based on specific keywords or themes to identify trends and unique content types within the catalog.
 ## Dataset
-The data for this project is sourced from the Kaggle dataset:
-Dataset Link: <a href=          Movies Dataset
+The data for this project is sourced from the Kaggle dataset:  
+-Dataset Link: <a href="https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download">Movies Dataset</a>
 ## Schema
 ```sql
 CREATE TABLE netflix
